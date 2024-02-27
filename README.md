@@ -13,19 +13,21 @@
 - 📫 You can contact me at **clement.maillet56@gmail.com**
 
 <h3 align="left" class="fav">Favorites languages & Tools & Frameworks:</h3>
-<div style="text-align: left;" id="fav">
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer" class="element">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-                alt="java" style="vertical-align: middle;">
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" class="element">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" style="vertical-align: middle;">
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" class="element">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" style="vertical-align: middle;"/>
-    </a>
+<div style="text-align: left;display:flex;">
+<a href="https://www.java.com/" target="_blank" rel="noreferrer" style="display: inline-block; background-color: white; padding: 7px; margin-top: 10px; margin-bottom: 10px; border: 3px solid; border-radius: 50%;border-color:#eb3636;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" style="vertical-align: middle; width: 45px; height: 45px;">
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; background-color: white; padding: 7px; margin-top: 10px; margin-bottom: 10px; border: 3px solid; border-radius: 50%;border-color:#eb3636;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="vertical-align: middle; width: 45px; height: 45px;">
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; background-color: white; padding: 7px; margin-top: 10px; margin-bottom: 10px; border: 3px solid; border-radius: 50%;border-color:#eb3636;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="vertical-align: middle; width: 45px; height: 45px;">
+</a>
+
+
+
 </div>
 <h3 align="left" class="bdd">BDD:</h3>
 <div style=""  id="bdd">
