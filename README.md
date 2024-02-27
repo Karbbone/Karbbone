@@ -1,4 +1,4 @@
-![MasterHead](./fond.jpg)
+![MasterHead](./Fond.jpg)
 <link rel="stylesheet" type="text/css" href="styles.css">
 <section class="seperator-wrapper">
   <div class="seperator gradient">
