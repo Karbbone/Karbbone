@@ -6,7 +6,7 @@
 </section>
 
 <h1 align="center">Hi 👋 ! I'm Clément Maillet</h1>
-<h2 align="center">I'm a student developer from France</h3>
+<h2 align="center">I'm a developer from France</h3>
 
 - 😀 Personality : **Calm, Thirst for knowledge**
 - 📫 You can contact me at **clement.maillet56@gmail.com**
